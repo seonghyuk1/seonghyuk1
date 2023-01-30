@@ -59,6 +59,6 @@
 
 
 <div align=left>
-	<img src="https://github-readme-stats.vercel.app/api?username=suji8073&show_icons=true">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suji8073&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=seonghyuk1&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghyuk1&layout=compact">
 </div>
