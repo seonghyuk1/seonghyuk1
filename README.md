@@ -7,6 +7,7 @@
 
 
 <a href="tjdgur0737@naver.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@tjdgur)](https://velog.io/@tjdgur)
 </a>
 </div>
 
