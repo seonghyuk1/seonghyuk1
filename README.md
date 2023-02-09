@@ -5,8 +5,8 @@
 </a>
 <p>
 
-<a href="https://suji-sw.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat&logo=blog&logoColor=white"/></a>
-<a href="suzy8073@naver.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+
+<a href="tjdgur0737@naver.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 </a>
 </div>
 
