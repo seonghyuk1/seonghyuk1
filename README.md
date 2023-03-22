@@ -23,10 +23,9 @@
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 	<br>
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-		<img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=Strapi&logoColor=white" />
+	<img src="https://img.shields.io/badge/Next-61DAFB?style=flat&logo=Next.js&logoColor=white"/>
 				
 	
 	
