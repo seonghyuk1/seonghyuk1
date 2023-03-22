@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyuk's github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyuk's-github&fontSize=90" />
 <p>✨ My Profile</p>
 <div align=left>
 <a href="https://github.com/seonghyuk1">
