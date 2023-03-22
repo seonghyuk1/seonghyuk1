@@ -35,6 +35,8 @@
 	<img src="https://img.shields.io/badge/Kibana-FF6A00?style=flat&logo=Kibana&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Logstash-00B8FC?style=flat&logo=Logstash&logoColor=white"/>
 	<br>
+	<br>
+	<br>
 	<p>🛠  Tools</p>
 	<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat&logo=Visual Studio&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -52,4 +54,8 @@
 <br>
 	<img src="https://github-readme-stats.vercel.app/api?username=seonghyuk1&show_icons=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghyuk1&layout=compact">
+	
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghyuk1%2Fhit-counter&count_bg=%234D5ADD&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
+
+
