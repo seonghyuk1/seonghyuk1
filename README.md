@@ -12,11 +12,8 @@
 </a>
 </div>
 
-<div align="left">
+<div align="center">
 	<p>📚 Stack </p>
-</div>
-	
-<div align="left">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -31,13 +28,8 @@
 	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Kibana-FF6A00?style=flat&logo=Kibana&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Logstash-00B8FC?style=flat&logo=Logstash&logoColor=white"/>
-</div>
-
-<div align=left>
 	<br>
 	<p>🛠  Tools</p>
-</div>
-<div align=left>
 	<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat&logo=Visual Studio&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
@@ -50,12 +42,10 @@
 		<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
 		<br>	
 	
-</div>
 
 <br>
 
 
-<div align=left>
 	<img src="https://github-readme-stats.vercel.app/api?username=seonghyuk1&show_icons=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghyuk1&layout=compact">
 </div>
