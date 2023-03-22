@@ -2,8 +2,9 @@
 <div align=center>
 	
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyuk's-github🧑🏻&fontSize=90" />
-	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghyuk1%2Fhit-counter&count_bg=%234D5ADD&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghyuk1%2Fhit-counter&count_bg=%234D5ADD&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+	
 <p>✨나의 프로필✨</p>
 <a href="https://github.com/seonghyuk1">
 <!-- <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreatehb21%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" /> -->
