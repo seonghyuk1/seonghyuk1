@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <p>✨ My Profile</p>
 <div align=left>
 <a href="https://github.com/seonghyuk1">
@@ -23,7 +24,6 @@
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 	<br>
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Next-61DAFB?style=flat&logo=Next.js&logoColor=white"/>
 				
