@@ -1,6 +1,7 @@
 
 <div align=center>
-
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghyuk1%2Fhit-counter&count_bg=%234D5ADD&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyuk's-github🧑🏻&fontSize=90" />
 <p>✨나의 프로필✨</p>
 <a href="https://github.com/seonghyuk1">
@@ -54,8 +55,7 @@
 <br>
 	<img src="https://github-readme-stats.vercel.app/api?username=seonghyuk1&show_icons=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghyuk1&layout=compact">
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghyuk1%2Fhit-counter&count_bg=%234D5ADD&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
 
