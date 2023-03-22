@@ -26,6 +26,10 @@
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Kibana-FF6A00?style=flat&logo=Kibana&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Logstash-00B8FC?style=flat&logo=Logstash&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Amazon-AWS-00B8FC?style=flat&logo=Amazon-AWS&logoColor=white"/>
 </div>
 
 <div align=left>
