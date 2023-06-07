@@ -13,13 +13,13 @@
 
 
 <a href="tjdgur0737@naver.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	
-	
+	[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@tjdgur)](https://velog.io/@tjdgur)
 </a>
-	
-	<a>[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@tjdgur)](https://velog.io/@tjdgur)</a>
 		<a href="https://www.notion.so/Portfolio-53c0dd94baa941688f19dd222466a61e?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 </div>
+
+
+
 
 
 
