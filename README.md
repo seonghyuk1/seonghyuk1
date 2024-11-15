@@ -1,7 +1,7 @@
 
 <div align=center>
 	
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongHyeok-github🧑🏻&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seonghyeok-github🧑🏻&fontSize=50" />
 	
 
 	
